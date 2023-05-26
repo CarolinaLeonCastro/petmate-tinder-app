@@ -1,11 +1,7 @@
 # PetMate
 
  PetMate is a mobile app that allows users to swipe through pictures of pets and match with pets they find attractive. It's like Tinder, but for pets!
-
 ![petmate-app-gif](/public/petmate-app-gif.gif)
-![screenshot2](/public/screenshot2.png)
-![screenshot3](/public/screenshot3.png)
-![screenshot4](/public/screenshot4.png)
 ## Features
 
 - Users can create a profile with information about their own pets.
